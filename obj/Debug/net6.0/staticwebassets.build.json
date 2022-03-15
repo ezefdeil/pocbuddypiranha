@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "eadeu0StrOh3aPhFdHguSNXpa/3Yes1+Hm4FAp7WIic=",
+  "Source": "POC Piranha CMS",
+  "BasePath": "_content/POC Piranha CMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "POC Piranha CMS\\wwwroot",
+      "Source": "POC Piranha CMS",
+      "ContentRoot": "C:\\GitRepos\\POC Piranha CMS\\wwwroot\\",
+      "BasePath": "_content/POC Piranha CMS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\GitRepos\\POC Piranha CMS\\wwwroot\\assets\\css\\style.min.css",
+      "SourceId": "POC Piranha CMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitRepos\\POC Piranha CMS\\wwwroot\\",
+      "BasePath": "_content/POC Piranha CMS",
+      "RelativePath": "assets/css/style.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\style.min.css"
+    }
+  ]
+}
